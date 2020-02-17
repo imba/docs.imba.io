@@ -1,10 +1,14 @@
 ---
-description: The official documentation for the Imba programming language.
+description: A complete guide to learn Imba 2. (Work in Progress)
 ---
 
-# Welcome to the Imba Documentation!
+# Welcome to the Imba Guide
 
-> Hei there, note that this documentation is currently a ⚠️work in progress⚠️. Please report any issues, improvements or other feedback you have on [GitHub](https://github.com/imba/docs.imba.io/issues): [https://github.com/imba/docs.imba.io](https://github.com/imba/docs.imba.io/issues)
+## Intro
+
+If you are familiar with programming concepts, or you simply need to quickly review different elements of the Imba Language, this flash documentation will provide you a quick preview nearly anything in Imba 2.
+
+For more detailed explanation scroll down to the Guide Section, to get a more indepth look at each concept.
 
 ## How To Use
 
@@ -22,16 +26,12 @@ description: The official documentation for the Imba programming language.
 
 ## What is Imba
 
-Imba is a programming language for building web applications. While Imba provides the most benefits on the client side, it is a full stack language that you can use on the server as well.
-
-The two main benefits to Imba are:
+Imba is a programming language for building web applications, but it is on a class of its own with two main innovations:
 
 * Its beautiful syntax and programming philosophy opens up new and efficient ways to build web applications. 
-* Compatible with the existing JavaScript. Not only does Imba compile down to hyper-efficient JavaScript but it also can import and use existing npm modules.
+* It leverages on the power of JavaScript by compiling down to readable and hyper-efficient JavaScript. It opens up the door to a new magnitude of performance eclipsing the performance of JavaScript frameworks such as react and view 10-20 fold.
 
-### What Imba is not
-
-Imba is not a framework. It does not define the application design process and paradigm for building web applications. While Imba makes state management super easy, you have to pick your approach.
+  > Note: Imba is not a framework. It does not define the application design process and paradigm for building web applications.
 
 ### How does Imba do this?
 
