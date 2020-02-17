@@ -2,7 +2,7 @@
 
 * [Welcome to the Imba Documentation!](README.md)
 
-## Documentation <a id="docs"></a>
+## For Imba Users <a id="docs"></a>
 
 * [How to use docs.imba.io?](docs/how-to-use-docs.imba.io.md)
 * [Get Started](docs/get-started.md)
