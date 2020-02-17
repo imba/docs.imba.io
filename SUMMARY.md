@@ -4,6 +4,7 @@
 
 ## Documentation <a id="docs"></a>
 
+* [How to use docs.imba.io?](docs/how-to-use-docs.imba.io.md)
 * [Get Started](docs/get-started.md)
 * [Comments](docs/comments.md)
 * [Variables](docs/variables.md)
