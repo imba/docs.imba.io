@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to the Imba Guide](README.md)
+* [Welcome to the Imba Documentation!](README.md)
 
 ## Documentation <a id="docs"></a>
 
