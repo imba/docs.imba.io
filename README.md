@@ -8,20 +8,6 @@ description: The official documentation for the Imba programming language.
 Hei there, note that this documentation is currently a ⚠️work in progress⚠️. Please report any issues, improvements or other feedback you have on GitHub: https://github.com/imba/docs.imba.io
 {% endhint %}
 
-## How To Use
-
-👈 Browse through the pages on the left to find different subjects
-
-![Imba docs Pages](.gitbook/assets/imba-docs-pages.gif)
-
-👉 On the right, you can navigate through the headers of each page. 
-
-![Navigate through the sections of a page on the menu on the right.](.gitbook/assets/imba-docs-page-contents.gif)
-
-🔎 Use the search on the top right if you need to quickly find something you lost.
-
-![](.gitbook/assets/imba-docs-search.gif)
-
 ## What is Imba
 
 Imba is a programming language for building web applications. While Imba provides the most benefits on the client side, it is a full stack language that you can use on the server as well.
