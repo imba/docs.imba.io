@@ -1,3 +1,7 @@
+---
+description: The fastest way to get started with Imba.
+---
+
 # Get Started
 
 ## Quick Install
