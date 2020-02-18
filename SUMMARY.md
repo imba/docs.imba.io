@@ -9,7 +9,7 @@
 
 ## Getting Started
 
-* [Using the Template](docs/get-started.md)
+* [Using the Template](getting-started/get-started.md)
 * [Imba for Svelte Developers](getting-started/imba-for-svelte-developers.md)
 * [Imba inside an Angular 1.x app](getting-started/imba-inside-a-angular-1.x-app.md)
 
@@ -23,28 +23,34 @@
 
 ## The Syntax
 
-* [Syntax](the-syntax/syntax.md)
-* [The @ sign](the-syntax/the-sign.md)
-* [Classes 🔵](docs/classes.md)
-* [Async in Imba 🔴](docs/async-in-imba.md)
-* [Tag Props 🟡](docs/props.md)
-* [Functions](docs/data-1.md)
-* [Variables](docs/variables.md)
-* [Arrays](docs/arrays-and-objects.md)
-* [Loops & Iteration](docs/loops-and-iteration.md)
-* [Boolean Operators](docs/logic-1.md)
-* [Comments](docs/comments.md)
-* [Objects](docs/objects-and-object-properties.md)
-* [Tags 🟡](docs/tags-components.md)
-* [Slots](docs/slots.md)
+* [Basic Syntax](the-syntax/syntax/README.md)
+  * [The @ sign](the-syntax/syntax/the-sign.md)
+  * [Objects](the-syntax/syntax/objects-and-object-properties.md)
+  * [Functions and Methods](the-syntax/syntax/data-1.md)
+  * [Boolean Operators](the-syntax/syntax/logic-1.md)
+  * [Loops & Iteration](the-syntax/syntax/loops-and-iteration.md)
+  * [Operators](the-syntax/syntax/operators.md)
+  * [Blocks](the-syntax/syntax/blocks.md)
+  * [Variables](the-syntax/syntax/variables.md)
+  * [Comments](the-syntax/syntax/comments.md)
+  * [Values](the-syntax/syntax/values.md)
+  * [Lists](the-syntax/syntax/arrays-and-objects.md)
+  * [Classes 🔵](the-syntax/syntax/classes.md)
+  * [Conditional statements](the-syntax/syntax/conditional-statements.md)
+  * [Decorators](the-syntax/syntax/decorators.md)
+* [Tags 🟡](the-syntax/tags-components/README.md)
+  * [Tag Properties](the-syntax/tags-components/props.md)
+  * [Styling](the-syntax/tags-components/styling.md)
+  * [Slots](the-syntax/tags-components/slots.md)
+* [Asynchronous Programming](the-syntax/async-in-imba.md)
 
 ## Event Handling
 
-* [DOM Manipulation & Events](docs/dom-manipulation-and-events.md)
+* [DOM Manipulation & Events](dom-manipulation-and-events.md)
 
 ## Routing
 
-* [Imba Router](docs/router.md)
+* [Imba Router](routing/router.md)
 
 ## Migration
 
@@ -54,7 +60,7 @@
 
 * [Release](for-imba-developers/release.md)
 * [Development](for-imba-developers/development.md)
-* [Imba Internals](docs/imba-behind-the-scenes-1.md)
+* [Imba Internals](for-imba-developers/imba-behind-the-scenes-1.md)
 
 ## MISC
 
@@ -63,6 +69,6 @@
 
 ## Meta
 
-* [Join the Imba Community!](docs/community.md)
+* [Join the Imba Community!](meta/community.md)
 * [The Core Team](meta/the-team.md)
 
