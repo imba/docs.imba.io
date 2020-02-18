@@ -9,7 +9,7 @@
 
 ## Getting Started
 
-* [Using the Template](getting-started/get-started.md)
+* [Using the Template](docs/get-started.md)
 * [Imba for Svelte Developers](getting-started/imba-for-svelte-developers.md)
 * [Imba inside an Angular 1.x app](getting-started/imba-inside-a-angular-1.x-app.md)
 
@@ -21,26 +21,26 @@
 
 ## The Syntax
 
-* [Classes 🔵](the-syntax/classes.md)
-* [Async in Imba 🔴](the-syntax/async-in-imba.md)
-* [Tag Props 🟡](the-syntax/props.md)
-* [Functions](the-syntax/data-1.md)
-* [Variables](the-syntax/variables.md)
-* [Arrays](the-syntax/arrays-and-objects.md)
-* [Loops & Iteration](the-syntax/loops-and-iteration.md)
-* [Boolean Operators](the-syntax/logic-1.md)
-* [Comments](the-syntax/comments.md)
-* [Objects](the-syntax/objects-and-object-properties.md)
-* [Tags 🟡](the-syntax/tags-components.md)
-* [Slots](the-syntax/slots.md)
+* [Classes 🔵](docs/classes.md)
+* [Async in Imba 🔴](docs/async-in-imba.md)
+* [Tag Props 🟡](docs/props.md)
+* [Functions](docs/data-1.md)
+* [Variables](docs/variables.md)
+* [Arrays](docs/arrays-and-objects.md)
+* [Loops & Iteration](docs/loops-and-iteration.md)
+* [Boolean Operators](docs/logic-1.md)
+* [Comments](docs/comments.md)
+* [Objects](docs/objects-and-object-properties.md)
+* [Tags 🟡](docs/tags-components.md)
+* [Slots](docs/slots.md)
 
 ## Event Handling
 
-* [DOM Manipulation & Events](dom-manipulation-and-events.md)
+* [DOM Manipulation & Events](docs/dom-manipulation-and-events.md)
 
 ## Routing
 
-* [Imba Router](routing/router.md)
+* [Imba Router](docs/router.md)
 
 ## Migration
 
@@ -50,10 +50,15 @@
 
 * [Release](for-imba-developers/release.md)
 * [Development](for-imba-developers/development.md)
-* [Imba Internals](for-imba-developers/imba-behind-the-scenes-1.md)
+* [Imba Internals](docs/imba-behind-the-scenes-1.md)
+
+## MISC
+
+* [Projects Using Imba](misc/projects-using-imba.md)
+* [Untitled](misc/untitled.md)
 
 ## Meta
 
-* [Join the Imba Community!](meta/community.md)
+* [Join the Imba Community!](docs/community.md)
 * [The Core Team](meta/the-team.md)
 
