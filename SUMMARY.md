@@ -11,7 +11,7 @@
 
 * [Using the Template](getting-started/get-started.md)
 * [Imba for Svelte Developers](getting-started/imba-for-svelte-developers.md)
-* [Imba inside an Angular 1.x app](getting-started/imba-inside-a-angular-1.x-app.md)
+* [Imba inside an Angular 1.x App](getting-started/imba-inside-a-angular-1.x-app.md)
 
 ## Tutorials
 
@@ -20,6 +20,8 @@
 * [Building a Beautiful Form](tutorials/building-a-beautiful-form.md)
 * [Testing Imba with Cypress](tutorials/testing-imba-with-cypress.md)
 * [Working efficiently with SVG](tutorials/working-efficiently-with-svg.md)
+* [Building a Markdown Editor](tutorials/building-a-markdown-editor.md)
+* [Adding Imba to a Rails App](tutorials/adding-imba-to-a-rails-app.md)
 
 ## The Syntax
 
@@ -66,6 +68,7 @@
 
 * [Projects Using Imba](misc/projects-using-imba.md)
 * [Around the Web](misc/untitled.md)
+* [Syntax Highlighting](misc/syntax-highlighting.md)
 
 ## Meta
 
