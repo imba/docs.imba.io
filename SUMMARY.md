@@ -4,8 +4,8 @@
 
 ## For Imba Users <a id="docs"></a>
 
-* [How to use docs.imba.io?](docs/how-to-use-docs.imba.io.md)
-* [Get Started](docs/get-started.md)
+* [Installation](docs/installation.md)
+* [Getting Started](docs/get-started.md)
 * [Comments](docs/comments.md)
 * [Variables](docs/variables.md)
 * [Boolean Operators](docs/logic-1.md)
