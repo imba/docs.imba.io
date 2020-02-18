@@ -2,7 +2,7 @@
 description: The official Imba documentation.
 ---
 
-# Imba Documentation
+# Introduction
 
 {% hint style="warning" %}
 Note that this documentation is under construction. Please report any issues or potential feedback on GitHub. [https://github.com/imba/docs.imba.io](https://github.com/imba/docs.imba.io)
