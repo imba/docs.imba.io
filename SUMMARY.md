@@ -6,20 +6,6 @@
 
 * [Globally](installation/installation.md)
 * [Webpack](installation/webpack.md)
-* [Comments](installation/comments.md)
-* [Variables](installation/variables.md)
-* [Boolean Operators](installation/logic-1.md)
-* [Loops & Iteration](installation/loops-and-iteration.md)
-* [Functions](installation/data-1.md)
-* [Arrays](installation/arrays-and-objects.md)
-* [Objects](installation/objects-and-object-properties.md)
-* [Tags 🟡](installation/tags-components.md)
-* [Tag Props 🟡](installation/props.md)
-* [Slots](installation/slots.md)
-* [DOM Manipulation & Events 🟡](installation/dom-manipulation-and-events.md)
-* [Classes 🔵](installation/classes.md)
-* [Async in Imba 🔴](installation/async-in-imba.md)
-* [Imba Router 🟡](installation/router.md)
 
 ## Getting Started
 
@@ -32,6 +18,29 @@
 * [Building a Beautiful Form](tutorials/building-a-beautiful-form.md)
 * [Making a Todo app](tutorials/making-a-todo-app.md)
 * [Imba in 3 minutes](tutorials/imba-in-3-minutes.md)
+
+## The Syntax
+
+* [Classes 🔵](the-syntax/classes.md)
+* [Async in Imba 🔴](the-syntax/async-in-imba.md)
+* [Tag Props 🟡](the-syntax/props.md)
+* [Functions](the-syntax/data-1.md)
+* [Variables](the-syntax/variables.md)
+* [Arrays](the-syntax/arrays-and-objects.md)
+* [Loops & Iteration](the-syntax/loops-and-iteration.md)
+* [Boolean Operators](the-syntax/logic-1.md)
+* [Comments](the-syntax/comments.md)
+* [Objects](the-syntax/objects-and-object-properties.md)
+* [Tags 🟡](the-syntax/tags-components.md)
+* [Slots](the-syntax/slots.md)
+
+## Event Handling
+
+* [DOM Manipulation & Events](dom-manipulation-and-events.md)
+
+## Routing
+
+* [Imba Router](routing/router.md)
 
 ## Migration
 
