@@ -15,12 +15,16 @@
 
 ## Tutorials
 
-* [Building a Beautiful Form](tutorials/building-a-beautiful-form.md)
-* [Making a Todo app](tutorials/making-a-todo-app.md)
 * [Imba in 3 minutes](tutorials/imba-in-3-minutes.md)
+* [Making a Todo app](tutorials/making-a-todo-app.md)
+* [Building a Beautiful Form](tutorials/building-a-beautiful-form.md)
+* [Testing Imba with Cypress](tutorials/testing-imba-with-cypress.md)
+* [Working efficiently with SVG](tutorials/working-efficiently-with-svg.md)
 
 ## The Syntax
 
+* [Syntax](the-syntax/syntax.md)
+* [The @ sign](the-syntax/the-sign.md)
 * [Classes 🔵](docs/classes.md)
 * [Async in Imba 🔴](docs/async-in-imba.md)
 * [Tag Props 🟡](docs/props.md)
@@ -55,7 +59,7 @@
 ## MISC
 
 * [Projects Using Imba](misc/projects-using-imba.md)
-* [Untitled](misc/untitled.md)
+* [Around the Web](misc/untitled.md)
 
 ## Meta
 
