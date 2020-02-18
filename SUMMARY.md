@@ -46,5 +46,5 @@
 ## Meta
 
 * [Join the Imba Community!](meta/community.md)
-* [The Team](meta/the-team.md)
+* [The Core Team](meta/the-team.md)
 
