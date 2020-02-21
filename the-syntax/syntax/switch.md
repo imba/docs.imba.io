@@ -34,3 +34,19 @@ var numberString3 = switch number
 
 As you see, `else` stands for `default`. Isn't it clearer?
 
+
+
+```ruby
+Switch Statements
+let emotion = 'happy'
+switch emotion
+    when 'happy'
+        console.log '😀'
+    when 'sad'
+        console.log '😢'
+    else
+        console.log '🤷‍♂️'
+```
+
+> [Play with this code on Scrimba](https://scrimba.com/c/cQqQeWuD)
+
