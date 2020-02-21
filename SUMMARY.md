@@ -48,6 +48,7 @@
 ## Event Handling
 
 * [DOM Manipulation & Events](dom-manipulation-and-events.md)
+* [Mouse and Touch Events](mouse-and-touch-events.md)
 
 ## Routing
 
