@@ -73,5 +73,5 @@
 
 * [Join the Imba Community!](meta/community.md)
 * [The Core Team](meta/the-team.md)
-* [The CLI](meta/untitled.md)
+* [The CLI](meta/the-cli.md)
 
