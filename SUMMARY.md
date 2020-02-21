@@ -4,7 +4,7 @@
 
 ## Installation
 
-* [Globally](installation/installation.md)
+* [Installing Imba](installation/installation.md)
 * [Webpack](installation/webpack.md)
 
 ## Getting Started
@@ -64,7 +64,7 @@
 * [Development](for-imba-developers/development.md)
 * [Imba Internals](for-imba-developers/imba-behind-the-scenes-1.md)
 
-## MISC
+## miscellaneous <a id="misc"></a>
 
 * [Projects Using Imba](misc/projects-using-imba.md)
 * [Around the Web](misc/untitled.md)
