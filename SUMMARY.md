@@ -11,6 +11,7 @@
 ## The Syntax
 
 * [Basic Syntax](the-syntax/syntax/README.md)
+  * [Switch](the-syntax/syntax/switch.md)
   * [The @ sign](the-syntax/syntax/the-sign.md)
   * [Objects](the-syntax/syntax/objects-and-object-properties.md)
   * [Functions and Methods](the-syntax/syntax/data-1.md)
