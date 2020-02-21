@@ -8,17 +8,6 @@
 * [Using the Template](getting-started/get-started.md)
 * [Imba in 3 minutes](getting-started/imba-in-3-minutes.md)
 
-## Tutorials
-
-* [Making a Todo app](tutorials/making-a-todo-app.md)
-* [Building a Beautiful Form](tutorials/building-a-beautiful-form.md)
-* [Testing Imba with Cypress](tutorials/testing-imba-with-cypress.md)
-* [Working efficiently with SVG](tutorials/working-efficiently-with-svg.md)
-* [Building a Markdown Editor](tutorials/building-a-markdown-editor.md)
-* [Adding Imba to a Rails App](tutorials/adding-imba-to-a-rails-app.md)
-* [Imba for Svelte Developers](tutorials/imba-for-svelte-developers.md)
-* [Imba inside an Angular 1.x App](tutorials/imba-inside-a-angular-1.x-app.md)
-
 ## The Syntax
 
 * [Basic Syntax](the-syntax/syntax/README.md)
@@ -41,6 +30,20 @@
   * [Styling](the-syntax/tags-components/styling.md)
   * [Slots](the-syntax/tags-components/slots.md)
 * [Asynchronous Programming](the-syntax/async-in-imba.md)
+
+## Tutorials
+
+* [Making a Todo app](tutorials/making-a-todo-app.md)
+* [Building a Beautiful Form](tutorials/building-a-beautiful-form.md)
+* [Testing Imba with Cypress](tutorials/testing-imba-with-cypress.md)
+* [Working efficiently with SVG](tutorials/working-efficiently-with-svg.md)
+* [Building a Markdown Editor](tutorials/building-a-markdown-editor.md)
+
+## Guides
+
+* [Adding Imba to a Rails App](adding-imba-to-a-rails-app.md)
+* [Imba for Svelte Developers](imba-for-svelte-developers.md)
+* [Imba inside an Angular 1.x App](imba-inside-a-angular-1.x-app.md)
 
 ## Event Handling
 
