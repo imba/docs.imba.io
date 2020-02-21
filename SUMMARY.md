@@ -5,34 +5,34 @@
 ## Getting Started
 
 * [Installing Imba](getting-started/installation.md)
-* [Using the Template](getting-started/get-started.md)
+* [Using the Template](getting-started/using-the-template.md)
 * [Imba in 3 minutes](getting-started/imba-in-3-minutes.md)
 
 ## The Syntax
 
-* [Basic Syntax](the-syntax/syntax/README.md)
+* [Basic Syntax](the-syntax/basic-syntax/README.md)
   * [Switch](the-syntax/syntax/switch.md)
-  * [The @ sign](the-syntax/syntax/the-sign.md)
-  * [Objects](the-syntax/syntax/objects-and-object-properties.md)
-  * [Functions and Methods](the-syntax/syntax/data-1.md)
+  * [The @ sign](the-syntax/basic-syntax/the-sign.md)
+  * [Objects](the-syntax/basic-syntax/objects.md)
+  * [Functions and Methods](the-syntax/basic-syntax/functions-and-methods.md)
   * [Boolean Operators](the-syntax/syntax/logic-1.md)
-  * [Loops & Iteration](the-syntax/syntax/loops-and-iteration.md)
-  * [Operators](the-syntax/syntax/operators.md)
-  * [Blocks](the-syntax/syntax/blocks.md)
-  * [Variables](the-syntax/syntax/variables.md)
-  * [Comments](the-syntax/syntax/comments.md)
-  * [Values](the-syntax/syntax/values.md)
-  * [Lists](the-syntax/syntax/arrays-and-objects.md)
-  * [Classes 🔵](the-syntax/syntax/classes.md)
-  * [Conditional statements](the-syntax/syntax/conditional-statements.md)
+  * [Loops & Iteration](the-syntax/basic-syntax/loops-and-iteration.md)
+  * [Operators](the-syntax/basic-syntax/operators.md)
+  * [Blocks](the-syntax/basic-syntax/blocks.md)
+  * [Variables](the-syntax/basic-syntax/variables.md)
+  * [Comments](the-syntax/basic-syntax/comments.md)
+  * [Values](the-syntax/basic-syntax/values.md)
+  * [Lists](the-syntax/basic-syntax/lists.md)
+  * [Classes 🔵](the-syntax/basic-syntax/classes.md)
+  * [Conditional statements](the-syntax/basic-syntax/conditional-statements.md)
   * [Decorators](the-syntax/syntax/decorators.md)
-* [Tags 🟡](the-syntax/tags-components/README.md)
+* [Tags 🟡](the-syntax/tags/README.md)
   * [Closer Look at Tags](the-syntax/tags-components/closer-look-at-tags.md)
   * [The Scheduler in Imba](the-syntax/tags-components/the-scheduler-in-imba.md)
-  * [Tag Properties](the-syntax/tags-components/props.md)
-  * [Styling](the-syntax/tags-components/styling.md)
-  * [Slots](the-syntax/tags-components/slots.md)
-* [Asynchronous Programming](the-syntax/async-in-imba.md)
+  * [Tag Properties](the-syntax/tags/tag-properties.md)
+  * [Styling](the-syntax/tags/styling.md)
+  * [Slots](the-syntax/tags/slots.md)
+* [Asynchronous Programming](the-syntax/asynchronous-programming.md)
 
 ## Tutorials
 
@@ -44,9 +44,9 @@
 
 ## Guides
 
-* [Adding Imba to a Rails App](adding-imba-to-a-rails-app.md)
-* [Imba for Svelte Developers](imba-for-svelte-developers.md)
-* [Imba inside an Angular 1.x App](imba-inside-a-angular-1.x-app.md)
+* [Adding Imba to a Rails App](guides/adding-imba-to-a-rails-app.md)
+* [Imba for Svelte Developers](guides/imba-for-svelte-developers.md)
+* [Imba inside an Angular 1.x App](guides/imba-inside-an-angular-1.x-app.md)
 
 ## Event Handling
 
@@ -55,7 +55,7 @@
 
 ## Routing
 
-* [Imba Router](routing/router.md)
+* [Imba Router](routing/imba-router.md)
 
 ## Migration
 
@@ -65,7 +65,7 @@
 
 * [Release](for-imba-developers/release.md)
 * [Development](for-imba-developers/development.md)
-* [Imba Internals](for-imba-developers/imba-behind-the-scenes-1.md)
+* [Imba Internals](for-imba-developers/imba-internals.md)
 * [Performance](for-imba-developers/performance.md)
 
 ## miscellaneous <a id="misc"></a>
@@ -76,7 +76,7 @@
 
 ## Meta
 
-* [Join the Imba Community!](meta/community.md)
+* [Join the Imba Community!](meta/join-the-imba-community.md)
 * [The Core Team](meta/the-team.md)
 * [The CLI](meta/the-cli.md)
 
