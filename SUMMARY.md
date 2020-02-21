@@ -26,6 +26,7 @@
   * [Conditional statements](the-syntax/syntax/conditional-statements.md)
   * [Decorators](the-syntax/syntax/decorators.md)
 * [Tags 🟡](the-syntax/tags-components/README.md)
+  * [Closer Look at Tags](the-syntax/tags-components/closer-look-at-tags.md)
   * [The Scheduler in Imba](the-syntax/tags-components/the-scheduler-in-imba.md)
   * [Tag Properties](the-syntax/tags-components/props.md)
   * [Styling](the-syntax/tags-components/styling.md)
