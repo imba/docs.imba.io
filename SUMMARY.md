@@ -67,7 +67,7 @@
 
 * [Projects Using Imba](misc/projects-using-imba.md)
 * [Around the Web](misc/untitled.md)
-* [Syntax Highlighting](misc/syntax-highlighting.md)
+* [Editor Plugins and IDEs](misc/syntax-highlighting.md)
 
 ## Meta
 
