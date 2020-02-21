@@ -14,5 +14,7 @@ Welcome to the Imba Documentation!
 
 Imba is a programming language for building amazing web applications. You can use it on the server and the client. It's a friendly full stack language that integrates seamlessly with the JavaScript ecosystem.
 
-The language is inspired by Ruby, Python and CoffeeScript. 
+The language is heavily inspired by Ruby, Python, CoffeeScript and JavaScript.
+
+Imba is open source and you can find the source on the [imba/imba](https://github.com/imba/imba) repository.
 

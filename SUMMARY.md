@@ -2,26 +2,22 @@
 
 * [Introduction](README.md)
 
-## Installation
-
-* [Installing Imba](installation/installation.md)
-* [Webpack](installation/webpack.md)
-
 ## Getting Started
 
+* [Installing Imba](getting-started/installation.md)
 * [Using the Template](getting-started/get-started.md)
-* [Imba for Svelte Developers](getting-started/imba-for-svelte-developers.md)
-* [Imba inside an Angular 1.x App](getting-started/imba-inside-a-angular-1.x-app.md)
+* [Imba in 3 minutes](getting-started/imba-in-3-minutes.md)
 
 ## Tutorials
 
-* [Imba in 3 minutes](tutorials/imba-in-3-minutes.md)
 * [Making a Todo app](tutorials/making-a-todo-app.md)
 * [Building a Beautiful Form](tutorials/building-a-beautiful-form.md)
 * [Testing Imba with Cypress](tutorials/testing-imba-with-cypress.md)
 * [Working efficiently with SVG](tutorials/working-efficiently-with-svg.md)
 * [Building a Markdown Editor](tutorials/building-a-markdown-editor.md)
 * [Adding Imba to a Rails App](tutorials/adding-imba-to-a-rails-app.md)
+* [Imba for Svelte Developers](tutorials/imba-for-svelte-developers.md)
+* [Imba inside an Angular 1.x App](tutorials/imba-inside-a-angular-1.x-app.md)
 
 ## The Syntax
 
