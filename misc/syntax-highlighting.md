@@ -1,8 +1,4 @@
----
-description: List of available tooling for editors and IDEs.
----
-
-# Editor Plugins and IDEs
+# Syntax Highlighting
 
 There are several options out there for editors. Please note that these plugins might have varying degrees of quality.
 

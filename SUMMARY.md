@@ -62,6 +62,7 @@
 * [Release](for-imba-developers/release.md)
 * [Development](for-imba-developers/development.md)
 * [Imba Internals](for-imba-developers/imba-behind-the-scenes-1.md)
+* [Performance](for-imba-developers/performance.md)
 
 ## miscellaneous <a id="misc"></a>
 
