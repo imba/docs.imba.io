@@ -47,6 +47,7 @@
 * [Adding Imba to a Rails App](guides/adding-imba-to-a-rails-app.md)
 * [Imba for Svelte Developers](guides/imba-for-svelte-developers.md)
 * [Imba inside an Angular 1.x App](guides/imba-inside-an-angular-1.x-app.md)
+* [Imba for React Developers](guides/imba-for-react-developers.md)
 
 ## Event Handling
 
