@@ -48,6 +48,7 @@
 * [Imba for Svelte Developers](guides/imba-for-svelte-developers.md)
 * [Imba inside an Angular 1.x App](guides/imba-inside-an-angular-1.x-app.md)
 * [Imba for React Developers](guides/imba-for-react-developers.md)
+* [Imba for Elm Developers](guides/imba-for-elm-developers.md)
 
 ## Event Handling
 
