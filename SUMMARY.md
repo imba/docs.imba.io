@@ -41,6 +41,7 @@
 * [Testing Imba with Cypress](tutorials/testing-imba-with-cypress.md)
 * [Working efficiently with SVG](tutorials/working-efficiently-with-svg.md)
 * [Building a Markdown Editor](tutorials/building-a-markdown-editor.md)
+* [Using Bulma with Imba](tutorials/using-bulma-with-imba.md)
 
 ## Guides
 
