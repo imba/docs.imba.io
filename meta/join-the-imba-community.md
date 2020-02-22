@@ -5,7 +5,6 @@
 The Imba community is on multiple channels:
 
 * [somebee/imba](https://gitter.im/somebee/imba) on Gitter
-* [imba/lobby](https://gitter.im/imba/Lobby) on Gitter
 * [Spectrum chat](https://spectrum.chat/imba)
 * [YouTube](youtube.com/channel/UCPOqjieI7GOx-gAKBLMktVg)
 
