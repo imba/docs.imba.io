@@ -50,6 +50,7 @@
 * [Imba inside an Angular 1.x App](guides/imba-inside-an-angular-1.x-app.md)
 * [Imba for React Developers](guides/imba-for-react-developers.md)
 * [Imba for Elm Developers](guides/imba-for-elm-developers.md)
+* [Imba for Vue Developers](guides/imba-for-vue-developers.md)
 
 ## Event Handling
 
