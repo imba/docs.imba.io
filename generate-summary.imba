@@ -1,12 +1,35 @@
 const fs = require('fs')
 const path = require('path')
 
+def capitalize str
+  const first = str.split('')[0].toUpperCase()
+  "{first}{str.slice(1)}"
+
+def ap input
+  let special = [
+    'a', 'an', 'and',
+    'at', 'but', 'by',
+    'for', 'in', 'nor',
+    'of', 'on', 'or',
+    'so', 'the', 'to', 'up',
+    'yet'
+  ]
+  let cased = input.split(' ').map do |element|
+    let mangle = element.toLowerCase()
+    if !special.includes(mangle)
+      capitalize(mangle)
+    else
+      element
+  cased.join(' ')
+
 const chPrefix = /ch\d/
 def cleanTitle s
-  s.replace(chPrefix, '')
-  .replace(/\-/g, ' ')
+  const c = s.replace(chPrefix, '')
   .replace(/\.md$/, '')
+  .replace(/\-/g, ' ')
   .trim()
+  ap(c)
+  
 
 const contents = fs.readdirSync(__dirname)
 const chapters = contents.filter do |x|

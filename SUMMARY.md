@@ -2,91 +2,91 @@
 
 [Introduction](README.md)
 
-## getting started 
+## Getting Started 
 
-* [get started](ch0-getting-started/get-started.md)
-* [imba in 3 minutes](ch0-getting-started/imba-in-3-minutes.md)
-* [installation](ch0-getting-started/installation.md)
-* [using the template](ch0-getting-started/using-the-template.md)
+* [Get Started](ch0-getting-started/get-started.md)
+* [Imba in 3 Minutes](ch0-getting-started/imba-in-3-minutes.md)
+* [Installation](ch0-getting-started/installation.md)
+* [Using the Template](ch0-getting-started/using-the-template.md)
 
-## the syntax 
+## the Syntax 
 
-* [README](ch1-the-syntax/README.md)
-* [arrays and objects](ch1-the-syntax/arrays-and-objects.md)
-* [async in imba](ch1-the-syntax/async-in-imba.md)
-* [asynchronous programming](ch1-the-syntax/asynchronous-programming.md)
-* [blocks](ch1-the-syntax/blocks.md)
-* [classes](ch1-the-syntax/classes.md)
-* [comments](ch1-the-syntax/comments.md)
-* [conditional statements](ch1-the-syntax/conditional-statements.md)
-* [data 1](ch1-the-syntax/data-1.md)
-* [decorators](ch1-the-syntax/decorators.md)
-* [functions and methods](ch1-the-syntax/functions-and-methods.md)
-* [lists](ch1-the-syntax/lists.md)
-* [logic 1](ch1-the-syntax/logic-1.md)
-* [loops and iteration](ch1-the-syntax/loops-and-iteration.md)
-* [objects and object properties](ch1-the-syntax/objects-and-object-properties.md)
-* [objects](ch1-the-syntax/objects.md)
-* [operators](ch1-the-syntax/operators.md)
-* [props](ch1-the-syntax/props.md)
-* [router](ch1-the-syntax/router.md)
-* [slots](ch1-the-syntax/slots.md)
-* [switch](ch1-the-syntax/switch.md)
-* [syntax](ch1-the-syntax/syntax.md)
-* [tags components](ch1-the-syntax/tags-components.md)
-* [the sign](ch1-the-syntax/the-sign.md)
-* [values](ch1-the-syntax/values.md)
-* [variables](ch1-the-syntax/variables.md)
+* [Readme](ch1-the-syntax/README.md)
+* [Arrays and Objects](ch1-the-syntax/arrays-and-objects.md)
+* [Async in Imba](ch1-the-syntax/async-in-imba.md)
+* [Asynchronous Programming](ch1-the-syntax/asynchronous-programming.md)
+* [Blocks](ch1-the-syntax/blocks.md)
+* [Classes](ch1-the-syntax/classes.md)
+* [Comments](ch1-the-syntax/comments.md)
+* [Conditional Statements](ch1-the-syntax/conditional-statements.md)
+* [Data 1](ch1-the-syntax/data-1.md)
+* [Decorators](ch1-the-syntax/decorators.md)
+* [Functions and Methods](ch1-the-syntax/functions-and-methods.md)
+* [Lists](ch1-the-syntax/lists.md)
+* [Logic 1](ch1-the-syntax/logic-1.md)
+* [Loops and Iteration](ch1-the-syntax/loops-and-iteration.md)
+* [Objects and Object Properties](ch1-the-syntax/objects-and-object-properties.md)
+* [Objects](ch1-the-syntax/objects.md)
+* [Operators](ch1-the-syntax/operators.md)
+* [Props](ch1-the-syntax/props.md)
+* [Router](ch1-the-syntax/router.md)
+* [Slots](ch1-the-syntax/slots.md)
+* [Switch](ch1-the-syntax/switch.md)
+* [Syntax](ch1-the-syntax/syntax.md)
+* [Tags Components](ch1-the-syntax/tags-components.md)
+* [the Sign](ch1-the-syntax/the-sign.md)
+* [Values](ch1-the-syntax/values.md)
+* [Variables](ch1-the-syntax/variables.md)
 
-## tutorials 
+## Tutorials 
 
-* [building a beautiful form](ch2-tutorials/building-a-beautiful-form.md)
-* [building a markdown editor](ch2-tutorials/building-a-markdown-editor.md)
-* [imba for svelte developers](ch2-tutorials/imba-for-svelte-developers.md)
-* [imba inside a angular 1.x app](ch2-tutorials/imba-inside-a-angular-1.x-app.md)
-* [making a todo app](ch2-tutorials/making-a-todo-app.md)
-* [testing imba with cypress](ch2-tutorials/testing-imba-with-cypress.md)
-* [using bulma with imba](ch2-tutorials/using-bulma-with-imba.md)
-* [working efficiently with svg](ch2-tutorials/working-efficiently-with-svg.md)
+* [Building a Beautiful Form](ch2-tutorials/building-a-beautiful-form.md)
+* [Building a Markdown Editor](ch2-tutorials/building-a-markdown-editor.md)
+* [Imba for Svelte Developers](ch2-tutorials/imba-for-svelte-developers.md)
+* [Imba Inside a Angular 1.x App](ch2-tutorials/imba-inside-a-angular-1.x-app.md)
+* [Making a Todo App](ch2-tutorials/making-a-todo-app.md)
+* [Testing Imba With Cypress](ch2-tutorials/testing-imba-with-cypress.md)
+* [Using Bulma With Imba](ch2-tutorials/using-bulma-with-imba.md)
+* [Working Efficiently With Svg](ch2-tutorials/working-efficiently-with-svg.md)
 
-## guides 
+## Guides 
 
-* [adding imba to a rails app](ch3-guides/adding-imba-to-a-rails-app.md)
-* [imba for elm developers](ch3-guides/imba-for-elm-developers.md)
-* [imba for react developers](ch3-guides/imba-for-react-developers.md)
-* [imba for svelte developers](ch3-guides/imba-for-svelte-developers.md)
-* [imba for vue developers](ch3-guides/imba-for-vue-developers.md)
-* [imba inside an angular 1.x app](ch3-guides/imba-inside-an-angular-1.x-app.md)
+* [Adding Imba to a Rails App](ch3-guides/adding-imba-to-a-rails-app.md)
+* [Imba for Elm Developers](ch3-guides/imba-for-elm-developers.md)
+* [Imba for React Developers](ch3-guides/imba-for-react-developers.md)
+* [Imba for Svelte Developers](ch3-guides/imba-for-svelte-developers.md)
+* [Imba for Vue Developers](ch3-guides/imba-for-vue-developers.md)
+* [Imba Inside an Angular 1.x App](ch3-guides/imba-inside-an-angular-1.x-app.md)
 
-## event handling 
+## Event Handling 
 
-* [dom manipulation and events](ch4-event-handling/dom-manipulation-and-events.md)
-* [mouse and touch events](ch4-event-handling/mouse-and-touch-events.md)
+* [Dom Manipulation and Events](ch4-event-handling/dom-manipulation-and-events.md)
+* [Mouse and Touch Events](ch4-event-handling/mouse-and-touch-events.md)
 
-## routing 
+## Routing 
 
-* [imba router](ch5-routing/imba-router.md)
+* [Imba Router](ch5-routing/imba-router.md)
 
-## migration 
+## Migration 
 
-* [going from v1.x to v2.x](ch6-migration/going-from-v1.x-to-v2.x.md)
+* [Going From V1.x to V2.x](ch6-migration/going-from-v1.x-to-v2.x.md)
 
-## for imba developers 
+## for Imba Developers 
 
-* [development](ch7-for-imba-developers/development.md)
-* [imba behind the scenes 1](ch7-for-imba-developers/imba-behind-the-scenes-1.md)
-* [imba internals](ch7-for-imba-developers/imba-internals.md)
-* [performance](ch7-for-imba-developers/performance.md)
-* [release](ch7-for-imba-developers/release.md)
+* [Development](ch7-for-imba-developers/development.md)
+* [Imba Behind the Scenes 1](ch7-for-imba-developers/imba-behind-the-scenes-1.md)
+* [Imba Internals](ch7-for-imba-developers/imba-internals.md)
+* [Performance](ch7-for-imba-developers/performance.md)
+* [Release](ch7-for-imba-developers/release.md)
 
-## misc 
+## Misc 
 
-* [around the web](ch8-misc/around-the-web.md)
-* [projects using imba](ch8-misc/projects-using-imba.md)
-* [syntax highlighting](ch8-misc/syntax-highlighting.md)
+* [Around the Web](ch8-misc/around-the-web.md)
+* [Projects Using Imba](ch8-misc/projects-using-imba.md)
+* [Syntax Highlighting](ch8-misc/syntax-highlighting.md)
 
-## meta 
+## Meta 
 
-* [join the imba community](ch9-meta/join-the-imba-community.md)
-* [the cli](ch9-meta/the-cli.md)
-* [the team](ch9-meta/the-team.md)
+* [Join the Imba Community](ch9-meta/join-the-imba-community.md)
+* [the Cli](ch9-meta/the-cli.md)
+* [the Team](ch9-meta/the-team.md)
