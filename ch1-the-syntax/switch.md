@@ -8,7 +8,7 @@ description: Examples of switch statements.
 
 You can use switch statements in two ways in Imba:
 
-```text
+```ruby
 var number = 1
 var numberString = switch number
   when 0

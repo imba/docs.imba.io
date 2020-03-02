@@ -18,7 +18,7 @@ As you probably noticed by now, Imba is a indentation based language. In the tag
 
 If you want to perform some work before rendering to the screen you could do it in the render method or one of the other lifecycle methods. Building on the previous example
 
-```
+```ruby
 tag hello-world
 
         def greet

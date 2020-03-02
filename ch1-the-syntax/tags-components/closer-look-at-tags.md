@@ -2,7 +2,7 @@
 
 Even though tags are just very thin wrappers around native DOM elements, they do have some functionality that is worth knowing. If you want to deal with the DOM element directly, you can always access that through `tag.dom`
 
-```text
+```ruby
 var element = <div.one.two> "Hello"
 element # => Imba.Tag - thin wrapper
 element.dom # => HTMLDivElement - real dom element
@@ -12,7 +12,7 @@ element.dom # => HTMLDivElement - real dom element
 
 There are a few methods you can override on custom tags to hook into the lifecycle of a tag. Here we override all these methods in our custom `Example` tag
 
-```text
+```ruby
 tag Example
     def build
         # called once, before properties are set
@@ -67,7 +67,7 @@ Does nothing by default. Override to do custom rendering.
 
 Trigger custom event on this tag. Events will bubble like native events, but are dispatched and processed directly inside the Imba.Event system, without generating a real browser Event. Optionally supply data for the event in the second argument.
 
-```text
+```ruby
 tag CustomList < ul
     def select item
         trigger('listselect',item)
@@ -77,7 +77,7 @@ tag CustomList < ul
 
 Call to activate the scheduler for this tag. The default options are `events: true`. See Imba.Scheduler for other options.
 
-```text
+```ruby
 tag Clock
     def mount
         # when element is inserted in document
@@ -107,7 +107,7 @@ Returns value of inline style named `name`
 
 Setting styles
 
-```text
+```ruby
 var node = <div>
 # with key and value
 node.css('display','block')

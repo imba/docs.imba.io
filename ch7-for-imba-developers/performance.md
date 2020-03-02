@@ -13,7 +13,7 @@ Sadly, virtual doms are still quite slow. Imba has chosen a very different appro
 
 ## The Memoized DOM
 
-```text
+```ruby
 var tip = "Item"
 var div = <div.large title=tip> "Hello"
 ```
@@ -37,7 +37,7 @@ var render = function(){
 
 Now, the attributes will be applied to div whenever we call render. If we change the value of tip, and call render again, the div will now have a different title attribute. This is a barebones illustration of what the Imba compiler does under the hood.
 
-```text
+```ruby
 tag Component
     def render
         <self>
@@ -63,7 +63,7 @@ If you look closely here, you will see that the first time render is called, the
 
 So what would happen if we add a dynamic attribute?
 
-```text
+```ruby
 tag Component
     def render
         <self>
@@ -74,7 +74,7 @@ tag Component
 
 compiles to
 
-```javascript
+```ruby
 var Component = Imba.defineTag('Component', function(tag){
     tag.prototype.render = function (){
         var $ = this.$;

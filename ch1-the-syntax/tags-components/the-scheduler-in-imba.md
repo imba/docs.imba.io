@@ -4,7 +4,7 @@
 
 Mark the scheduler to tick in the next frame. This is asynchronous, so you can call it a thousand times during one 'tick' in your application, and it will only call once in the next tick. This is useful if you want to make sure that some tag is rendered asynchronously as soon as possible.
 
-```text
+```ruby
 tag App
     def load
         data = await fetchDataFromServer
