@@ -2,9 +2,14 @@
 description: 'Basic Operators: https://scrimba.com/c/cPJQ88Hk'
 ---
 
-# Boolean Operators
+TODO: review this document properly
 
-## If Statements
+## Boolean Operators
+...
+
+## Conditional statements
+
+### If Statements
 
 To conditionally render some elements nest them within if statements.
 
@@ -22,7 +27,7 @@ tag App
 				<button> "you are logged out"
 ```
 
-## Else Statements
+### Else Statements
 
 If we have two conditions that are mutually exclusive, we can simply use `else` as part of our logic.
 
@@ -39,7 +44,7 @@ tag App
 				<span> "you are logged out"
 ```
 
-## Else If Statements
+### Else If Statements
 
 Instead of nesting if and else statements, you can use the `else if` to chain conditions. With Imba you may use `elif` for short.
 
@@ -58,7 +63,7 @@ tag App
 					<span> "done "
 ```
 
-## And/Or Operators
+### And/Or Operators
 
 ```ruby
 # and operator works the same as && in javascript
@@ -73,7 +78,7 @@ if no or no
 console.log !fasle # returns true
 ```
 
-## Switch Operator
+### Switch Operator
 
 ```ruby
 Switch Statements
@@ -89,7 +94,7 @@ switch emotion
 
 > [Play with this code on Scrimba](https://scrimba.com/c/cQqQeWuD)
 
-## Ternary Operator
+### Ternary Operator
 
 #### Single Line Ternary Operator
 
@@ -156,3 +161,6 @@ def toggleItem item
 
 > [Play with code on Scrimba](https://scrimba.com/c/c672KET3)
 
+## Operators
+
+....

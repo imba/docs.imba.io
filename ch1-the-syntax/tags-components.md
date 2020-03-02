@@ -166,5 +166,9 @@ def functional-tag item
 	<div> <page-item item=item>
 ```
 
+## Tag Properties
+
+....
+
 
 
