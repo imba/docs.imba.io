@@ -43,7 +43,7 @@ for chapter in chapters
   const files = fs.readdirSync(path.join(__dirname, chapter))
   const mFiles = files.filter do |x| x.match(/\.md$/)
 
-  console.log('\n##', title, "\n")
+  console.log("\n## {title}\n")
   for file in mFiles
     const subtitle = cleanTitle(file)
     const p = path.join(chapter, file)
