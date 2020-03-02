@@ -1,12 +1,17 @@
 # Join the Imba Community!
 
-## Community
-
 The Imba community is on multiple channels:
 
+* [YouTube](youtube.com/channel/UCPOqjieI7GOx-gAKBLMktVg)
 * [somebee/imba](https://gitter.im/somebee/imba) on Gitter
 * [Spectrum chat](https://spectrum.chat/imba)
-* [YouTube](youtube.com/channel/UCPOqjieI7GOx-gAKBLMktVg)
+* [Discord](https://discord.gg/mkcbkRw)
+
+## Code of Conduct
+
+Please use common sense and when in doubt read the [guidelines](https://github.com/imba/imba/blob/master/.github/CODE_OF_CONDUCT.md).
+
+If you have any questions that are not covered by the [Imba Code of Conduct](https://github.com/imba/imba/blob/master/.github/CODE_OF_CONDUCT.md) , feel free to email [alexander@alemayhu.com](mailto:) with any questions.
 
 ### Code of Conduct
 

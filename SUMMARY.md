@@ -4,9 +4,9 @@
 
 ## Getting Started
 
-* [Installing Imba](getting-started/installation.md)
-* [Using the Template](getting-started/using-the-template.md)
-* [Imba in 3 minutes](getting-started/imba-in-3-minutes.md)
+* [Installing Imba](ch0-getting-started/installation.md)
+* [Using the Template](ch0-getting-started/using-the-template.md)
+* [Imba in 3 minutes](ch0-getting-started/imba-in-3-minutes.md)
 
 ## The Syntax
 
