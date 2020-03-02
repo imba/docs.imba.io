@@ -14,12 +14,16 @@ def ap input
     'so', 'the', 'to', 'up',
     'yet'
   ]
+  let index = 0
   let cased = input.split(' ').map do |element|
     let mangle = element.toLowerCase()
     if !special.includes(mangle)
-      capitalize(mangle)
+      return capitalize(mangle)
+    elif index == 0
+      return capitalize(element)
     else
-      element
+      return element
+    index += 1
   cased.join(' ')
 
 const chPrefix = /ch\d/
