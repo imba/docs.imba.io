@@ -2,11 +2,7 @@
 description: The official Imba documentation.
 ---
 
-# Introduction
-
-Welcome to the Imba Documentation! 
-
-## What is Imba?
+# Welcome to the Imba Documentation 👋🏾
 
 Imba is a programming language for building amazing web applications.  It's
 heavily optimized for modern browsers.
