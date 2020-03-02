@@ -6,7 +6,6 @@
 
 * [Get Started](ch0-getting-started/get-started.md)
 * [Imba In 3 Minutes](ch0-getting-started/imba-in-3-minutes.md)
-* [Installation](ch0-getting-started/installation.md)
 * [Using The Template](ch0-getting-started/using-the-template.md)
 
 ## The Syntax
