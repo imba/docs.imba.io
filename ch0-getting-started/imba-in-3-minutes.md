@@ -27,8 +27,8 @@ tag hello-world
 
         def mount
                 const u = "https://jsonplaceholder.typicode.com/users/3"
-		const request = await window.fetch(u)
-		self.payload = await request.json()
+                const request = await window.fetch(u)
+                self.payload = await request.json()
 
         def render
                 <self>
