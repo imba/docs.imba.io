@@ -10,7 +10,7 @@ tag my-app
         <self>
             <h1> "Hello World!"
 
-imba.mount <App>
+imba.mount <my-app>
 
 ```
 
@@ -64,7 +64,7 @@ Use attributes as you would in HTML. Just remember to omit the quotes for dynami
 
 ```ruby
 let image = "images/200.png"
-tag App
+tag my-app
 	def render
 		<self>
 			<img src=image alt="placeholder">
@@ -78,7 +78,7 @@ Values from variables and objects can be injected right into the DOM elements. Y
 
 ```ruby
 let name = "World"
-tag App
+tag my-app
 	def render
 		<self>
 			<h1> "Hello {name.toUpperCase()}!"
