@@ -1,2 +1,0 @@
-# Imba for Svelte Developers
-

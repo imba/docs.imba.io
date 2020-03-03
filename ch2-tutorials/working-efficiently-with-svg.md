@@ -1,2 +1,0 @@
-# Working efficiently with SVG
-
