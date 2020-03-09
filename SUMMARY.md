@@ -59,6 +59,7 @@
 
 ## Migration
 
+* [Configuring Rollup](migration/configuring-rollup.md)
 * [Going From V1.x To V2.x](migration/going-from-v1.x-to-v2.x.md)
 
 ## For Imba Developers
