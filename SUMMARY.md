@@ -9,13 +9,13 @@
 
 ## The Syntax
 
-* [Basics](the-syntax/basics.md)
+* [Basics](the-syntax/basics/README.md)
+  * [Comments](the-syntax/basics/comments.md)
 * [Functions](the-syntax/functions.md)
 * [Arrays And Objects](the-syntax/arrays-and-objects.md)
 * [Async In Imba](the-syntax/async-in-imba.md)
 * [Classes](the-syntax/classes.md)
 * [Closer Look At Tags](the-syntax/closer-look-at-tags.md)
-* [Comments](the-syntax/comments.md)
 * [Decorators](the-syntax/decorators.md)
 * [Logic 1](the-syntax/logic-1.md)
 * [Loops And Iteration](the-syntax/loops-and-iteration.md)
