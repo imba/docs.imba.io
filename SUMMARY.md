@@ -37,6 +37,7 @@
 * [Testing Imba With Cypress](tutorials/testing-imba-with-cypress.md)
 * [Using Bulma With Imba](tutorials/using-bulma-with-imba.md)
 * [Working Efficiently With Svg](tutorials/working-efficiently-with-svg.md)
+* [Making a CLI in Imba](tutorials/making-a-cli-in-imba.md)
 
 ## Guides
 
