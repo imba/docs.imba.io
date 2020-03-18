@@ -33,7 +33,6 @@
 * [Building A Beautiful Form](tutorials/building-a-beautiful-form.md)
 * [Building A Markdown Editor](tutorials/building-a-markdown-editor.md)
 * [Imba For Svelte Developers](tutorials/imba-for-svelte-developers.md)
-* [Imba Inside A Angular 1.x App](tutorials/imba-inside-a-angular-1.x-app.md)
 * [Making A Todo App](tutorials/making-a-todo-app.md)
 * [Testing Imba With Cypress](tutorials/testing-imba-with-cypress.md)
 * [Using Bulma With Imba](tutorials/using-bulma-with-imba.md)
@@ -46,7 +45,7 @@
 * [Imba For React Developers](guides/imba-for-react-developers.md)
 * [Imba For Svelte Developers](guides/imba-for-svelte-developers.md)
 * [Imba For Vue Developers](guides/imba-for-vue-developers.md)
-* [Imba Inside An Angular 1.x App](guides/imba-inside-an-angular-1.x-app.md)
+* [Imba Inside A Angular 1.x App](guides/imba-inside-a-angular-1.x-app.md)
 
 ## Event Handling
 
