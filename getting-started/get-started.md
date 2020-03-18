@@ -4,7 +4,7 @@ description: The fastest way to get started with Imba.
 
 # Get Started
 
-The easiest way to get started with Imba is to use the [official template](https://github.com/imba/imba2-hello-world), see the [Getting Started](get-started.md) page on how to get it.
+The easiest way to experiment with Imba is to use the template on [Scrimba](https://scrimba.com/). If you are starting a new project it's recommended to use the template below.
 
 ### Using the Template
 
