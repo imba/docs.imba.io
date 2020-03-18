@@ -11,7 +11,7 @@
 
 * [Basics](the-syntax/basics/README.md)
   * [Comments](the-syntax/basics/comments.md)
-* [Functions](the-syntax/functions.md)
+  * [Functions](the-syntax/basics/functions.md)
 * [Arrays And Objects](the-syntax/arrays-and-objects.md)
 * [Async In Imba](the-syntax/async-in-imba.md)
 * [Classes](the-syntax/classes.md)
