@@ -9,6 +9,7 @@
 
 ## The Syntax
 
+* [Basics](the-syntax/basics.md)
 * [Functions](the-syntax/functions.md)
 * [Arrays And Objects](the-syntax/arrays-and-objects.md)
 * [Async In Imba](the-syntax/async-in-imba.md)
