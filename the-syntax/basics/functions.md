@@ -38,10 +38,9 @@ def call url, method = 'GET'
 If you don't know how many arguments are going to be passed in or are trying to be flexible there is a syntax for that
 
 ```ruby
-TODO: add example
+def race winner, ...rest
+	"{winner} beat {rest.join(', ')}"Named Parameters
 ```
-
-#### Named Parameters
 
 ```ruby
 TODO: add example
