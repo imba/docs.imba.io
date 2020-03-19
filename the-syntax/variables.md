@@ -19,7 +19,7 @@ let loggedIn = yes|no|true|false # boolean
 
 # Other Value Types
 let email # undefined - value not assigned
-image # null variable not-existent
+image # TypeError
 ```
 
 > 🎮 [Play with this code on Scrimba](https://scrimba.com/c/cv8ZMgc6)
