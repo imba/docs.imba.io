@@ -4,7 +4,7 @@ order: 7
 description: High level description of the commandline tools available.
 ---
 
-# The Cli
+# The CLI
 
 Imba comes with a few binaries imba, imbapack and imbac.
 

@@ -83,6 +83,6 @@
 ## Meta
 
 * [Join The Imba Community](meta/join-the-imba-community.md)
-* [The Cli](meta/the-cli.md)
+* [The CLI](meta/the-cli.md)
 * [The Team](meta/the-team.md)
 
