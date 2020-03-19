@@ -10,9 +10,14 @@
 ## The Syntax
 
 * [Tags](the-syntax/tags/README.md)
-  * [Closer Look At Tags](the-syntax/tags/closer-look-at-tags.md)
+  * [The Scheduler In Imba](the-syntax/tags/the-scheduler-in-imba.md)
   * [Creating Tags](the-syntax/tags/tags-components.md)
+  * [Properties](the-syntax/tags/props.md)
+  * [Closer Look At Tags](the-syntax/tags/closer-look-at-tags.md)
+* [Styling](the-syntax/styling.md)
 * [Basics](the-syntax/basics/README.md)
+  * [Decorators](the-syntax/basics/decorators.md)
+  * [Switch](the-syntax/basics/switch.md)
   * [Objects](the-syntax/basics/objects-and-object-properties.md)
   * [Logic 1](the-syntax/basics/logic-1.md)
   * [Comments](the-syntax/basics/comments.md)
@@ -24,13 +29,7 @@
   * [Classes](the-syntax/basics/classes-1.md)
   * [Variables](the-syntax/basics/variables.md)
   * [Arrays](the-syntax/basics/arrays-and-objects.md)
-* [Decorators](the-syntax/decorators.md)
-* [Props](the-syntax/props.md)
-* [Router](the-syntax/router.md)
 * [Slots](the-syntax/slots.md)
-* [Styling](the-syntax/styling.md)
-* [Switch](the-syntax/switch.md)
-* [The Scheduler In Imba](the-syntax/the-scheduler-in-imba.md)
 
 ## Tutorials
 
@@ -59,6 +58,7 @@
 
 ## Routing
 
+* [Router](routing/router.md)
 * [Imba Router](routing/imba-router.md)
 
 ## Migration
