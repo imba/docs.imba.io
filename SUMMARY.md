@@ -15,6 +15,7 @@
   * [Loops](the-syntax/basics/loops-and-iteration.md)
   * [Async / Await](the-syntax/basics/async-in-imba.md)
   * [Modules](the-syntax/basics/modules.md)
+  * [Classes](the-syntax/basics/classes.md)
 * [Tags](the-syntax/tags/README.md)
   * [Creating Tags](the-syntax/tags/tags-components.md)
 * [Arrays And Objects](the-syntax/arrays-and-objects.md)
