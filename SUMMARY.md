@@ -9,28 +9,28 @@
 
 ## The Syntax
 
+* [Tags](the-syntax/tags/README.md)
+  * [Closer Look At Tags](the-syntax/tags/closer-look-at-tags.md)
+  * [Creating Tags](the-syntax/tags/tags-components.md)
 * [Basics](the-syntax/basics/README.md)
+  * [Objects](the-syntax/basics/objects-and-object-properties.md)
+  * [Logic 1](the-syntax/basics/logic-1.md)
   * [Comments](the-syntax/basics/comments.md)
   * [Functions](the-syntax/basics/functions.md)
   * [Loops](the-syntax/basics/loops-and-iteration.md)
   * [Async / Await](the-syntax/basics/async-in-imba.md)
   * [Modules](the-syntax/basics/modules.md)
   * [Classes](the-syntax/basics/classes.md)
-* [Tags](the-syntax/tags/README.md)
-  * [Creating Tags](the-syntax/tags/tags-components.md)
-* [Arrays And Objects](the-syntax/arrays-and-objects.md)
-* [Classes](the-syntax/classes.md)
-* [Closer Look At Tags](the-syntax/closer-look-at-tags.md)
+  * [Classes](the-syntax/basics/classes-1.md)
+  * [Variables](the-syntax/basics/variables.md)
+  * [Arrays](the-syntax/basics/arrays-and-objects.md)
 * [Decorators](the-syntax/decorators.md)
-* [Logic 1](the-syntax/logic-1.md)
-* [Objects And Object Properties](the-syntax/objects-and-object-properties.md)
 * [Props](the-syntax/props.md)
 * [Router](the-syntax/router.md)
 * [Slots](the-syntax/slots.md)
 * [Styling](the-syntax/styling.md)
 * [Switch](the-syntax/switch.md)
 * [The Scheduler In Imba](the-syntax/the-scheduler-in-imba.md)
-* [Variables](the-syntax/variables.md)
 
 ## Tutorials
 
