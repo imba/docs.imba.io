@@ -46,6 +46,20 @@ def race winner, ...rest
 TODO: add example
 ```
 
+#### Accessing Arguments via Shorthand
+
+The arguments of a method can be accessed through the special `$0`. Each individual argument can be accessed through `$n`, where n is the argument number, starting from 1.
+
+```ruby
+def method
+	$0 # -> arguments
+	$1 # -> arguments[0]
+	$2 # -> arguments[1]
+
+# sometimes practical for inline methods
+var doubles = [1,2,3].map do $1 * 2
+```
+
 ## Function Blocks \(Expressions\)
 
 ```ruby
@@ -65,4 +79,6 @@ item.save do
 ```
 
 > [🎮 Play with this code on Scrimba](https://scrimba.com/c/cgMZwDuy)
+
+
 
