@@ -15,6 +15,8 @@
   * [Loops](the-syntax/basics/loops-and-iteration.md)
   * [Async / Await](the-syntax/basics/async-in-imba.md)
   * [Modules](the-syntax/basics/modules.md)
+* [Tags](the-syntax/tags/README.md)
+  * [Creating Tags](the-syntax/tags/tags-components.md)
 * [Arrays And Objects](the-syntax/arrays-and-objects.md)
 * [Classes](the-syntax/classes.md)
 * [Closer Look At Tags](the-syntax/closer-look-at-tags.md)
@@ -26,7 +28,6 @@
 * [Slots](the-syntax/slots.md)
 * [Styling](the-syntax/styling.md)
 * [Switch](the-syntax/switch.md)
-* [Tags Components](the-syntax/tags-components.md)
 * [The Scheduler In Imba](the-syntax/the-scheduler-in-imba.md)
 * [Variables](the-syntax/variables.md)
 
