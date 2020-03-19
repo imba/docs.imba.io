@@ -5,17 +5,10 @@ Loops in Imba behaves similar to array comprehensions in CoffeeScript and Python
 ### for in
 
 ```ruby
-let languages = ['Imba', 'Svelte', 'Javascript']
-
-for item in languages
-    console.log item
-
 tag app-root
-    def render
-        <self>
-            <ul>
-                for item in languages
-                    <li> item
+		<self> 
+			<ul> for item in ['Imba', 'Svelte', 'Javascript']
+				<li> item
 ```
 
 > [See on Scrimba](https://scrimba.com/c/cv8Mvau8)
