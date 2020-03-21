@@ -17,7 +17,13 @@ yarn global add imba@pre # npm -g install imba@pre
 
 ### Simple Scripts
 
-TODO
+Assuming you have installed `imba` globally, you can then add the shebang and start writing your code.
+
+```bash
+#!/usr/bin/env imba
+
+console.log('hello imba')
+```
 
 ### Creating a New Project
 
