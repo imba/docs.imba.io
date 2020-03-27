@@ -4,7 +4,7 @@ description: The official Imba documentation.
 
 # Introduction
 
-Imba is a programming language for building amazing web applications. It's heavily optimized for modern browsers.
+Imba is a programming language for building amazing web applications. It's greatly optimized for modern browsers.
 
 ## Benefits
 
