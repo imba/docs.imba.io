@@ -20,7 +20,7 @@ export todo-view
 		<self> data:title
 ```
 
-### import
+### Import
 
 ```ruby
 # index.imba
@@ -31,9 +31,19 @@ var result = mult(1,2)
 var view = <todo-view[todo]>
 ```
 
-### require
+### Require \(V2\)
 
-Require works exactly like in plain JavaScript.
+For consistency, require are done with the same syntax as import.
+
+```text
+import m from 'module'
+```
+
+would be equivalent to
+
+```text
+var m = require 'module'
+```
 
 ```ruby
 var fs = require 'fs'
@@ -43,4 +53,6 @@ var body = fs.readFileSync('something.txt')
 var todo = stuff.Todo.new
 var result = stuff.mult(1,2)
 ```
+
+
 
