@@ -1,9 +1,11 @@
 # Styles
 
-## Styles within Comment Blocks
+### Global Styles
+
+
 
 ```css
-### css scoped
+### css
 body {
     padding: 10px; 
 }
