@@ -2,9 +2,9 @@
 description: The basics of Imba
 ---
 
-# Basics
+# Logic
 
-Imba is an indentation based language. If you have written any [Ruby](https://www.ruby-lang.org) or [Python](https://www.python.org/) then a lot of the syntax will feel familiar. Even though the syntax and semantics of Imba is much more related to Ruby than JavaScript, it does compile down to plain JavaScript, and is fully compatible with any existing JavaScript library. Imba does not extend any native types from JavaScript. Arrays are arrays, strings are strings, numbers are numbers, classes are constructors with prototypes and so forth.
+Imba is an indentation based language. If you have written any [Ruby](https://www.ruby-lang.org) or [Python](https://www.python.org/) then a lot of the syntax will feel familiar. Even though the syntax and semantics of Imba is much more related to Ruby than JavaScript, it does compile down to plain JavaScript, and is fully compatible with any existing JavaScript libraries. Imba does not extend any native types from JavaScript. Arrays are arrays, strings are strings, numbers are numbers, classes are constructors with prototypes and so forth.
 
 ### Interoperability
 

@@ -1,4 +1,4 @@
-# Styling
+# Styles
 
 ## Styles within Comment Blocks
 

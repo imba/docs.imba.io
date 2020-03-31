@@ -12,7 +12,7 @@ Below are just a few of the benefits of using Imba
 
 * A friendly full stack language, You can use it on the server and the client. 
 * Seamless integration with JavaScript. You can easily reuse existing JavaScript in Imba. 
-* Performance builtin with the Memoized DOM.  This frees you up to focus on
+* Performance builtin with the Memoized DOM. This frees you up to focus on
 
   the application and business logic.
 

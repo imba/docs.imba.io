@@ -9,13 +9,15 @@
 
 ## The Syntax
 
-* [Tags](the-syntax/tags/README.md)
-  * [The Scheduler In Imba](the-syntax/tags/the-scheduler-in-imba.md)
+* [Tags & Elements](the-syntax/tags/README.md)
   * [Creating Tags](the-syntax/tags/tags-components.md)
+  * [Elements \(HTML\)](the-syntax/tags/elements-html.md)
   * [Properties](the-syntax/tags/props.md)
+  * [Slots](the-syntax/tags/slots.md)
+  * [The Scheduler In Imba](the-syntax/tags/the-scheduler-in-imba.md)
   * [Closer Look At Tags](the-syntax/tags/closer-look-at-tags.md)
-* [Styling](the-syntax/styling.md)
-* [Basics](the-syntax/basics/README.md)
+* [Styles](the-syntax/styling.md)
+* [Logic](the-syntax/basics/README.md)
   * [Decorators](the-syntax/basics/decorators.md)
   * [Switch](the-syntax/basics/switch.md)
   * [Objects](the-syntax/basics/objects-and-object-properties.md)
@@ -29,7 +31,6 @@
   * [Classes](the-syntax/basics/classes-1.md)
   * [Variables](the-syntax/basics/variables.md)
   * [Arrays](the-syntax/basics/arrays-and-objects.md)
-* [Slots](the-syntax/slots.md)
 
 ## Tutorials
 

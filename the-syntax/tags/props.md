@@ -161,7 +161,7 @@ tag app-root
 
 ## Questions
 
-What are these called? prop, function, objects?
+What are these called? Prop, Function, Objects?
 
 ```ruby
 # Explain This
