@@ -46,7 +46,8 @@ Stepping through that example we have three methods `greet`, `mount` and `render
 Accessing attributes is very easy in Imba since tags can be treated exactly as DOM elements. Building on the example above we could make the remote url overridable, f. ex:
 
 ```ruby
-def mount
+tag hello-world
+    def mount
     		const u = self.getAttribute('url')
         if u
             const request = await window.fetch(u)
@@ -59,5 +60,14 @@ In your markup you would then set it like this
 
 ```markup
 <hello-world url='https://jsonplaceholder.typicode.com/users/3'></hello-world>
+```
+
+For example
+
+```jsx
+tag app-root
+    def render
+        <self>
+            <hello-world url='https://jsonplaceholder.typicode.com/users/3'></hello-world>
 ```
 

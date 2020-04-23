@@ -63,7 +63,7 @@ var doubles = [1,2,3].map do $1 * 2
 ## Function Blocks \(Expressions\)
 
 ```ruby
-var square = do |v| v * v
+var square = do(v) v * v
 ```
 
 Blocks are like anonymous function expressions in JavaScript. They can be assigned and passed around. They have their own lexical scope / closure, but no dynamic scope. This means that self \(implicit _and_ explicit\) inside the block still refers to the self of the outer scope.
@@ -71,7 +71,7 @@ Blocks are like anonymous function expressions in JavaScript. They can be assign
 Blocks can be passed in directly when calling functions, as the last argument.
 
 ```ruby
-[1,2,3,4].map do |num| num * 2
+[1,2,3,4].map do(num) num * 2
 
 item.save do
     # callback trigger when item is saved?
@@ -80,5 +80,5 @@ item.save do
 
 > [🎮 Play with this code on Scrimba](https://scrimba.com/c/cgMZwDuy)
 
-
+_updated on 23\_April\_2020 - eric_
 
