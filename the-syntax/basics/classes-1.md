@@ -1,66 +1,52 @@
 # Classes
 
+## Why use Classes?
+
 {% hint style="info" %}
-Simplify this
+What in JavaScript is referred to as a _Constructor_ or _Prototype_, Imba calls a _**Class**_, as it is commonly known in other programming languages.
 {% endhint %}
-
-## Intro
-
-What in JavaScript is referred to as a Constructor \_\_or prototype, Imba calls a Class, as it is better known in other programming languages.
 
 To understand the use of classes, let's look back at objects really quick.  
 This is an object that contains properties for John.
 
 ```ruby
-var john = {
+var john =
     age: 20
     birthYear: 1999
     isMarried: false
-}
 ```
 
 If we want to create a new object we could duplicate the code and change the values.
 
 ```ruby
-var peter = {
+var peter =
     age: 30
     birthYear: 1989
     isMarried: false
-}
 ```
 
 We could keep doing this over and over, but there is a better way... _Classes!_  
 You can think of classes as some sort of blueprint for creating objects that will help you keep your code DRY and easier to maintain as you only need make changes to the Class to affect all its instances.
 
-## Declaration of Classes
+## Declare a Class
 
-A Class is simply declared with the keyword of `class` followed by the desired name for that class. The naming convention Imba is `UpperCasing` as it does with tags, since camelCasing is reserved for functions and methods.
+A Class is simply declared with the keyword of `class` followed by the desired name for that class. Though it is not enforced, we recommend the common naming convention for classes, which is `UpperCase`. 
 
-We have been making objects like this,
+> `camelCase` is conventionally reserved for functions and methods.
 
-```ruby
-var john = {
-    name: 'John'
-    age: '20'
-    job: 'teacher'
-}
-```
-
-But, now let's make a Class to serve as a blueprint from which we will instantiate a new John Object in a more efficient way.
+Now, let's make a Class to serve as a blueprint from which we will instantiate a new John Object in a more efficient way.
 
 ```ruby
 class Person
-    def constructor x,y,z
-        @name = x
-        @age = y
-        @job = z
 ```
 
-{% hint style="danger" %}
-Explain Initialize x,y,z vs prop.
-{% endhint %}
+## Create Instance Class
 
-## Instances
+{% hint style="danger" %}
+V2 possible change:   
+let Eric = Person.new  
+let Eric = new Person
+{% endhint %}
 
 To create instances of classes in Imba you use the `new` method like `Array.new`, as opposed to the special `new Array()` syntax in JavaScript.
 
@@ -68,13 +54,95 @@ To create instances of classes in Imba you use the `new` method like `Array.new`
 This syntax is not solely for classes created in Imba, but is used for creating any object, be it built in constructors in JavaScript like `Array`, `Object`, `RegEx` and any other class/constructor from other languages.
 {% endhint %}
 
+Let's create an instance of the Person Class in the Eric variable.
+
+```ruby
+class Person
+let Eric = Person.new
+```
+
+We can see if the class has been applied by checking the constructor name of Eric.
+
+```ruby
+class Person
+let Eric = Person.new
+
+console.log Eric.constructor.name
+>>> Person
+```
+
+🔗 [play with code on Scrimba](https://scrimba.com/c/cn4wJrtv)
+
+## Instance Variable / Prop
+
+Instance Variables in Imba are declared using the **prop** keyword. **Props** a variables that are scoped to the specific instance of a class or tag. They are not directly accessible from the global scope. Let's store our constructor name in a prop called type and print the result to the console.
+
+```ruby
+class Person
+    prop type = this.constructor.name
+let Eric = Person.new
+```
+
+By accessing the 'type' property on 'Eric', we should see "Person" in the console as we did before.
+
+```ruby
+class Person
+    prop type = this.constructor.name
+let Eric = Person.new
+
+console.log Eric.type
+>>> Person
+```
+
+🔗 [Play with the code on Scrimba](https://scrimba.com/c/cvdJpKSd)
+
+## Instance Methods / Functions
+
+Methods are simply functions that are scoped to the specific instance of a class. in the same way that props are simply variables that are scoped to the instance of class. Just as props, they cannot be accessed directly from the global scope. Only through the instances.
+
+Let's create a method using the `def` keyword that will print our type to the console.
+
+```ruby
+class Person
+    prop type = this.constructor.name
+    def printType
+        console.log type
+```
+
+Now we should be able to print the type to the console, by simply accessing the method.
+
+```ruby
+class Person
+    prop type = this.constructor.name
+    def printType
+        console.log type
+
+Eric.printType()
+>>> Person
+```
+
+Methods, just like functions, are called using the `functionName()` syntax.   
+If you don't have any parameters to call within the parenthesis, you can use a bang `!` instead of the parenthesis `()`. It makes more legible code.
+
+```ruby
+Eric.printType!
+>>> Person
+```
+
+### Constructor, Initializer
+
+{% hint style="danger" %}
+Explain Initialize x,y,z vs prop.
+{% endhint %}
+
+## Instances
+
 ```ruby
 class Person
     def constructor x, y, z
-        @name = x
-        @age = y
-        @job = z
-
+        name = x
+        age = y
+        job = z        
 let john = Person.new 'John', 20, 'Teacher'
 ```
 

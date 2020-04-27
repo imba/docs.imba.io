@@ -21,7 +21,8 @@
   * [Decorators](the-syntax/basics/decorators.md)
   * [Switch](the-syntax/basics/switch.md)
   * [Objects](the-syntax/basics/objects-and-object-properties.md)
-  * [Logic 1](the-syntax/basics/logic-1.md)
+  * [Logic](the-syntax/basics/logic-1.md)
+  * [If / Else Statements](the-syntax/basics/if-else-statements.md)
   * [Comments](the-syntax/basics/comments.md)
   * [Functions](the-syntax/basics/functions.md)
   * [Loops](the-syntax/basics/loops-and-iteration.md)
@@ -51,6 +52,7 @@
 * [Imba For Svelte Developers](guides/imba-for-svelte-developers.md)
 * [Imba For Vue Developers](guides/imba-for-vue-developers.md)
 * [Imba Inside A Angular 1.x App](guides/imba-inside-a-angular-1.x-app.md)
+* [Imba with firestore](guides/imba-with-firestore.md)
 
 ## Event Handling
 

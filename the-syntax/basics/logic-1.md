@@ -2,13 +2,7 @@
 description: 'Basic Operators: https://scrimba.com/c/cPJQ88Hk'
 ---
 
-# Logic 1
-
-TODO: review this document properly
-
-## Boolean Operators
-
-...
+# Logic
 
 ## Conditional statements
 
@@ -97,52 +91,6 @@ switch emotion
 
 > [Play with this code on Scrimba](https://scrimba.com/c/cQqQeWuD)
 
-### Ternary Operator
-
-#### Single Line Ternary Operator
-
-You can do them the Javascript way like this:
-
-`if (condition) ? function : function`
-
-But this is the fun Imba way:
-
-`if (condition) then function else function`
-
-Here's a real example:
-
-```ruby
-# height in centimeters
-var height = 100
-if height >= 80 then console.log('You can ride the rollercoaster!') else console.log('Sorry, you are a few centimeters short.')
-# --> Congratulations, you can ride the rollercoaster
-```
-
-#### Multiline Ternary Operator
-
-The multiline ternary operator can make things even more legible.
-
-```ruby
-# Multiline ternary operator
-if height >= 80
-then console.log(firstName + ' can ride a rollercoaster')
-else console.log(firstName + ' cannot ride a rollercoaster')
-```
-
-## Equality Operators
-
-In imba you have the option of using they keywords `is` and `isnt` instead of `===` and `!==` for the strict equals and strict not-equal operators.
-
-```ruby
-let total = 1
-
-if total is 1
-# returns: true
-
-if total isnt 1
-# $: false
-```
-
 ## Boolean Values
 
 While Imba always renders `true` and `false` boolean values, you may use the keywords `yes` and `no` on your code if it makes your code more legible.
@@ -153,9 +101,89 @@ var loggedIn = yes
 var loggedIn = no
 ```
 
-## The Not Operator
+## 
 
-As you would in javascript, you can negate a boolean value with the exclamation mark `!`
+## Operators
+
+### Boolean Operators
+
+Imba brings carries over all the boolean operators from Javascript, with a few wrappers for strict-equal `is` and strict-not-equal `isnt` operators
+
+```coffeescript
+# comparators
+item == 10 # check
+item === 10 # strictly equal
+item is 10 # also strictly equal
+item != 10 # not equal
+item !== 10 # strictly not equal
+item isnt 10 # also strictly not equal
+item > 10 # greater than
+item < 10 # less than
+item >= 10 # greater than or equal
+item <= 10 # less than or equal
+```
+
+### Switch Operator
+
+```ruby
+Switch Statements
+let emotion = 'happy'
+switch emotion
+    when 'happy'
+        console.log '😀'
+    when 'sad'
+        console.log '😢'
+    else
+        console.log '🤷‍♂️'
+```
+
+> [Play with this code on Scrimba](https://scrimba.com/c/cQqQeWuD)
+
+### Ternary Operator
+
+#### Single Line Ternary Operator
+
+You can do them the Javascript way like this:
+
+```javascript
+if (condition) ? function : function
+```
+
+But this is the fun Imba way:
+
+```ruby
+if (condition) then function else function
+```
+
+Here's a real example:
+
+```ruby
+# height in centimeters
+var height = 100
+if height >= 80 then console.log('You can ride the rollercoaster!') else console.log('Sorry, you are a few centimeters short.')
+# --> Congratulations, you can ride the rollercoaster
+```
+
+#### Multi-line Ternary Operator
+
+The mult-iline ternary operator can make things even more legible.
+
+```ruby
+# Multiline ternary operator
+if height >= 80
+then console.log(firstName + ' can ride a rollercoaster')
+else console.log(firstName + ' cannot ride a rollercoaster')
+```
+
+### 
+
+```ruby
+
+```
+
+### The Not Operator
+
+As you would in Javascript, you can negate any boolean value with the exclamation mark `!`
 
 ```ruby
 def toggleItem item
@@ -163,8 +191,4 @@ def toggleItem item
 ```
 
 > [Play with code on Scrimba](https://scrimba.com/c/c672KET3)
-
-## Operators
-
-....
 
