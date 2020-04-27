@@ -33,7 +33,7 @@ var view = <todo-view[todo]>
 
 ### Require \(V2\)
 
-For consistency, require are done with the same syntax as import.
+For consistency, require is done with the same syntax as import.
 
 ```text
 import m from 'module'

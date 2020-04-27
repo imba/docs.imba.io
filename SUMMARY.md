@@ -28,7 +28,6 @@
   * [Loops](the-syntax/basics/loops-and-iteration.md)
   * [Async / Await](the-syntax/basics/async-in-imba.md)
   * [Modules](the-syntax/basics/modules.md)
-  * [Classes](the-syntax/basics/classes.md)
   * [Classes](the-syntax/basics/classes-1.md)
   * [Variables](the-syntax/basics/variables.md)
   * [Arrays](the-syntax/basics/arrays-and-objects.md)

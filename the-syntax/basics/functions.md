@@ -1,5 +1,5 @@
 ---
-description: Examples of functions
+description: updated on 27_April_2020 - eric
 ---
 
 # Functions
@@ -80,5 +80,98 @@ item.save do
 
 > [🎮 Play with this code on Scrimba](https://scrimba.com/c/cgMZwDuy)
 
-_updated on 23\_April\_2020 - eric_
+## Arrow Functions
+
+Arrow functions are nothing more than new syntax for function blocks. Function blocks are so concise in Imba, that arrow functions are not really necessary.
+
+`(element) =>` equals `do(element)`
+
+Here are a few examples of arrow functions converted to Imba syntax.
+
+Example from[ jsonplaceholder.typicode.com](https://jsonplaceholder.typicode.com/)
+
+{% tabs %}
+{% tab title="JavaScript" %}
+```javascript
+fetch('https://jsonplaceholder.typicode.com/todos/1')
+  .then(response => response.json())
+  .then(json => console.log(json))
+```
+{% endtab %}
+
+{% tab title="Imba" %}
+```
+fetch('https://jsonplaceholder.typicode.com/todos/1')
+  .then do(response) response.json!
+  .then do(json) console.log(json)
+```
+{% endtab %}
+{% endtabs %}
+
+[🔗 Play with this code on Scrimba](https://scrimba.com/c/cdVGqLc8)
+
+Example from [developer.mozzilla.org](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions) \(explanations on their website\)
+
+{% tabs %}
+{% tab title="Javascript" %}
+```javascript
+var elements = [
+  'Hydrogen',
+  'Helium',
+  'Lithium',
+  'Beryllium'
+];
+
+elements.map(function(element) {
+  return element.length;
+});
+
+elements.map((element) => {
+  return element.length;
+});
+
+elements.map(element => {
+  return element.length;
+});
+
+elements.map(element => element.length);
+
+elements.map(({ length: lengthFooBArX }) => lengthFooBArX);
+
+elements.map(({ length }) => length);
+```
+{% endtab %}
+
+{% tab title="Imba" %}
+```ruby
+var elements = [
+	'Hydrogen'
+	'Helium'
+	'Lithium'
+	'Beryllium'
+]
+
+console.log elements.map do(element)
+	element.length;
+	
+console.log elements.map do(element)
+	element.length;
+	
+console.log elements.map do(element)
+	element.length;
+	
+console.log elements.map do(element) element.length;
+
+console.log elements.map do({length: lengthFooBarX}) lengthFooBarX
+
+console.log elements.map do({length}) length
+```
+{% endtab %}
+{% endtabs %}
+
+[🔗 Play with this code on Scrimba](https://scrimba.com/c/cdVGqLc8)
+
+
+
+_updated on 27\_April\_2020 - eric_
 
