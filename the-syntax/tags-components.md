@@ -1,4 +1,4 @@
-# Tags Components
+# Tags \(Custom Components\)
 
 ## Creating a Component
 

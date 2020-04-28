@@ -2,7 +2,7 @@
 description: aka properties
 ---
 
-# Props
+# Tag props \(Properties\)
 
 {% hint style="info" %}
 Simplify This
@@ -14,7 +14,7 @@ Components are better when they can share data with other components, such as th
 
 ```ruby
 tag app-root
-    @page
+    prop page
 ```
 
 ### Dynamic prop data
@@ -140,17 +140,37 @@ tag Home
 
 > NOTE: Props are only found in tags, not in classes. So the @ symbol has a different meaning within classes, but we'll explain more on that when we get there.
 
+## V2
+
+```ruby
+tag app-root
+
+    prop name = 'there'
+    get name
+        name
+    set name value
+        console.log('setting name to', value)
+        name = value
+    def render
+        <self>
+            <p> "Hello {name ? name : 'there'}!"
+            <input[name]>
+```
+
 ## Questions
 
-What are these called? prop, function, objects?
+What are these called? Prop, Function, Objects?
 
 ```ruby
 # Explain This
 def setup
-        @items = [
-            {title: "Remember milk", done: false}
-            {title: "Test custom events", done: false}
-        ]
+    prop items = [
+        title: "Remember milk", 
+        done: false
+        ---
+        title: "Test custom events"
+        done: false}
+    ]
 # as seen here: http://imba.io/guides/essentials/event-handling#event-interface
 ```
 

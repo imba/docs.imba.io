@@ -1,4 +1,4 @@
-# Slots
+# Tag Slots
 
 ## Ghost Slot
 

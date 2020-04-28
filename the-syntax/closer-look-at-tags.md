@@ -1,4 +1,4 @@
-# Closer Look At Tags
+# Tag Lifecycle
 
 Even though tags are just very thin wrappers around native DOM elements, they do have some functionality that is worth knowing. If you want to deal with the DOM element directly, you can always access that through `tag.dom`
 
