@@ -14,7 +14,7 @@ Components are better when they can share data with other components, such as th
 
 ```ruby
 tag app-root
-    @page
+    prop page
 ```
 
 ### Dynamic prop data

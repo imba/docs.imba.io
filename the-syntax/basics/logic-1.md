@@ -2,7 +2,7 @@
 description: 'Basic Operators: https://scrimba.com/c/cPJQ88Hk'
 ---
 
-# Logic
+# Conditional Statements & Operators
 
 ## Conditional statements
 

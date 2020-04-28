@@ -9,28 +9,27 @@
 
 ## The Syntax
 
-* [Tags & Elements](the-syntax/tags/README.md)
+* [Tags](the-syntax/tags/README.md)
   * [Creating Tags](the-syntax/tags/tags-components.md)
   * [Elements \(HTML\)](the-syntax/tags/elements-html.md)
   * [Properties](the-syntax/tags/props.md)
   * [Slots](the-syntax/tags/slots.md)
   * [The Scheduler In Imba](the-syntax/tags/the-scheduler-in-imba.md)
   * [Closer Look At Tags](the-syntax/tags/closer-look-at-tags.md)
-* [Styles](the-syntax/styling.md)
 * [Logic](the-syntax/basics/README.md)
-  * [Decorators](the-syntax/basics/decorators.md)
-  * [Switch](the-syntax/basics/switch.md)
-  * [Objects](the-syntax/basics/objects-and-object-properties.md)
-  * [Logic](the-syntax/basics/logic-1.md)
-  * [If / Else Statements](the-syntax/basics/if-else-statements.md)
+  * [Arrays](the-syntax/basics/arrays-and-objects.md)
+  * [Async / Await](the-syntax/basics/async-in-imba.md)
   * [Comments](the-syntax/basics/comments.md)
+  * [Classes](the-syntax/basics/classes-1.md)
+  * [Decorators](the-syntax/basics/decorators.md)
   * [Functions](the-syntax/basics/functions.md)
   * [Loops](the-syntax/basics/loops-and-iteration.md)
-  * [Async / Await](the-syntax/basics/async-in-imba.md)
+  * [Conditional Statements & Operators](the-syntax/basics/logic-1.md)
   * [Modules](the-syntax/basics/modules.md)
-  * [Classes](the-syntax/basics/classes-1.md)
   * [Variables](the-syntax/basics/variables.md)
-  * [Arrays](the-syntax/basics/arrays-and-objects.md)
+  * [Objects](the-syntax/basics/objects-and-object-properties.md)
+  * [Switch](the-syntax/basics/switch.md)
+* [Styles](the-syntax/styling.md)
 
 ## Tutorials
 
