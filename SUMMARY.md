@@ -9,30 +9,36 @@
 
 ## DOM <a id="the-syntax"></a>
 
-* [Elements \(HTML\)](the-syntax/elements-html.md)
+* [HTML Elements](the-syntax/elements-html.md)
 * [Tags \(Custom Components\)](the-syntax/tags-components.md)
 * [Tag props \(Properties\)](the-syntax/props.md)
 * [Tag Classes & IDs](the-syntax/tag-classes-and-ids.md)
 * [Tag Ref](the-syntax/tag-ref.md)
 * [Tag Slots](the-syntax/slots.md)
-* [The Scheduler In Imba](the-syntax/the-scheduler-in-imba.md)
 * [Tag Lifecycle](the-syntax/closer-look-at-tags.md)
-* [Styles](the-syntax/styling.md)
-* [Logic](the-syntax/logic/README.md)
-  * [Logic](the-syntax/logic/basics/README.md)
-    * [Arrays](the-syntax/logic/basics/arrays-and-objects.md)
-    * [Async / Await](the-syntax/logic/basics/async-in-imba.md)
-    * [Comments](the-syntax/logic/basics/comments.md)
-    * [Classes](the-syntax/logic/basics/classes-1.md)
-    * [Decorators](the-syntax/logic/basics/decorators.md)
-    * [Functions](the-syntax/logic/basics/functions.md)
-    * [Loops](the-syntax/logic/basics/loops-and-iteration.md)
-    * [Conditional Statements & Operators](the-syntax/logic/basics/logic-1.md)
-    * [Modules](the-syntax/logic/basics/modules.md)
-    * [Variables](the-syntax/logic/basics/variables.md)
-    * [Objects](the-syntax/logic/basics/objects-and-object-properties.md)
-    * [Switch](the-syntax/logic/basics/switch.md)
-* [Styles](the-syntax/styles.md)
+* [The Scheduler In Imba](the-syntax/the-scheduler-in-imba.md)
+
+## Logic & Data
+
+* [Objects](logic-and-data/objects-and-object-properties.md)
+* [Arrays](logic-and-data/arrays-and-objects.md)
+* [Async / Await](logic-and-data/async-in-imba.md)
+* [Comments](logic-and-data/comments.md)
+* [Classes](logic-and-data/classes-1.md)
+* [Decorators](logic-and-data/decorators.md)
+* [Functions](logic-and-data/functions.md)
+* [Loops](logic-and-data/loops-and-iteration.md)
+* [Conditional Statements & Operators](logic-and-data/logic-1.md)
+* [Modules](logic-and-data/modules.md)
+* [Variables](logic-and-data/variables.md)
+* [Switch](logic-and-data/switch.md)
+* [Logic](logic-and-data/basics.md)
+
+## Styles
+
+* [Styles](styles/styles.md)
+* [Styles](styles/styling.md)
+* [Untitled](styles/untitled.md)
 
 ## Tutorials
 

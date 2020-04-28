@@ -380,7 +380,7 @@ Eric.writes!
 
 ## Prototype Inheritance
 
-![The Prototype Chain](../../../.gitbook/assets/prototype-chain%20%281%29.png)
+![The Prototype Chain](../.gitbook/assets/prototype-chain%20%281%29.png)
 
 The _Eric_ object is an instance of the _Person_ Object, and the _Person_ object is an instance of the _Object_ of object. So the Eric object inherits the methods of the _Person_ object which inherites from the _Object_ object.
 

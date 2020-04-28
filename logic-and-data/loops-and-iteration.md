@@ -129,7 +129,7 @@ tag app-root
 
 > [Play with the code on Scrimba](https://scrimba.com/c/cD7aJmuW)
 
-![Example use of: for own key, value of object](../../../.gitbook/assets/image.png)
+![Example use of: for own key, value of object](../.gitbook/assets/image.png)
 
 ## Loop Over All Keys \(for of\)
 
