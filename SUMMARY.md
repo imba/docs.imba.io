@@ -37,9 +37,7 @@
 
 ## Styles
 
-* [Styles](styles/styles.md)
 * [Styles](styles/styling.md)
-* [Untitled](styles/untitled.md)
 
 ## Tutorials
 

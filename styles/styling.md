@@ -24,3 +24,9 @@ body {
 ###
 ```
 
+### Inline styles
+
+```text
+<div css:color="red">
+```
+
