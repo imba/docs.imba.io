@@ -4,14 +4,18 @@ description: updated on 27_April_2020 - by Eric
 
 # Functions
 
-There are two types of functions in Imba; methods and blocks.  
+There are two types of functions in Imba
+
+* Methods
+* Blocks
+
 In JavaScript, they're known respectively as _Function Declarations_, and _Function Expressions._
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Imba automatically returns the last expression of the function.
 {% endhint %}
 
-## Function Declarations \(Methods\)
+## Methods  \(Function Declarations\)
 
 Functions can have three different scopes.
 
@@ -26,7 +30,7 @@ def randomize
 	Math.random()
 ```
 
-## Functions within Classes \(Methods\)
+## Class Methods
 
 Functions are called **Methods** when used within classes. You probably know that already. When an object inherits from a class that contains methods, those methods will be accessible from that object. ****[**Learn more about class methods here.**](classes-1.md)\*\*\*\*
 
@@ -40,9 +44,9 @@ console.log lucky.randomize!
 
 [🔗 Play with this code on Scrimba](https://scrimba.com/c/cWn2Wqtb)
 
-## Functions within Tags
+## Tag Methods
 
-Functions are fun when paired with DOM events. In Imba you can create methods that are scoped to your components. You do so right within your tag component.
+Methods are more fun when paired with DOM events. In Imba you can create methods that are scoped to your components. You do so right within your tag component. And you can use Imba's event handlers to trigger methods that are defined right within your component.
 
 ```ruby
 tag app-root
@@ -61,6 +65,8 @@ tag app-root
 
 ## Single Argument Functions
 
+You can pass single argument to your functions by creating an argument keyword after the function name. In this example the word `num` is the argument keyword.
+
 ```ruby
 def square num
 	num * num
@@ -70,6 +76,10 @@ console.log square(2)
 [🔗 Play with this code on Scrimba](https://scrimba.com/c/cE9g29s3)
 
 ## Optional Argument Functions
+
+{% hint style="danger" %}
+Need a working Example for this and better explanations.
+{% endhint %}
 
 ```ruby
 def call url, method = 'GET'
@@ -93,6 +103,10 @@ console.log race("Imba", array)
 [🔗 Play with this code on Scrimba](https://scrimba.com/c/cRD2gKsQ)
 
 ## Accessing Arguments via Shorthand
+
+{% hint style="danger" %}
+Need a working Example for This
+{% endhint %}
 
 The arguments of a method can be accessed through the special `$0`. Each individual argument can be accessed through `$n`, where n is the argument number, starting from 
 
