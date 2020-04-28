@@ -4,7 +4,7 @@ description: updated on 27_April_2020 - eric
 
 # Classes
 
-## Why use Classes?
+##  cWhy use Classes?
 
 {% hint style="info" %}
 What in JavaScript is referred to as a _Constructor Function_ or _Prototype_, _Imba_ calls a _**Class**_, as it is commonly known in other programming languages.
