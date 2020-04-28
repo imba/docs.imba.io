@@ -7,16 +7,16 @@
 * [Get Started](getting-started/get-started.md)
 * [Imba In 3 Minutes](getting-started/imba-in-3-minutes.md)
 
-## DOM <a id="the-syntax"></a>
+## DOM
 
-* [HTML Elements](the-syntax/elements-html.md)
-* [Tags \(Custom Components\)](the-syntax/tags-components.md)
-* [Tag props \(Properties\)](the-syntax/props.md)
-* [Tag Classes & IDs](the-syntax/tag-classes-and-ids.md)
-* [Tag Ref](the-syntax/tag-ref.md)
-* [Tag Slots](the-syntax/slots.md)
-* [Tag Lifecycle](the-syntax/closer-look-at-tags.md)
-* [The Scheduler In Imba](the-syntax/the-scheduler-in-imba.md)
+* [HTML Elements](dom/elements-html.md)
+* [Tags \(Custom Components\)](dom/tags-components.md)
+* [Tag props \(Properties\)](dom/props.md)
+* [Tag Classes & IDs](dom/tag-classes-and-ids.md)
+* [Tag Ref](dom/tag-ref.md)
+* [Tag Slots](dom/slots.md)
+* [Tag Lifecycle](dom/closer-look-at-tags.md)
+* [The Scheduler In Imba](dom/the-scheduler-in-imba.md)
 
 ## Logic & Data
 
