@@ -1,10 +1,18 @@
 ---
-description: updated on 27_April_2020 - eric
+description: updated on 27 April 2020 (Eric Tirado)
 ---
 
 # Classes
 
-##  cWhy use Classes?
+{% hint style="danger" %}
+V2 possible change under Class Instance:   
+let Eric = Person.new  
+let Eric = new Person  
+  
+Extending Class Constructors not supported?
+{% endhint %}
+
+##  Why use Classes?
 
 {% hint style="info" %}
 What in JavaScript is referred to as a _Constructor Function_ or _Prototype_, _Imba_ calls a _**Class**_, as it is commonly known in other programming languages.
@@ -74,13 +82,7 @@ A Class is simply declared with the keyword of `class` followed by the desired n
 let Eric = Person.new
 ```
 
-{% hint style="danger" %}
-V2 possible change:   
-let Eric = Person.new  
-let Eric = new Person
-{% endhint %}
-
-{% hint style="warning" %}
+{% hint style="info" %}
 This syntax is not solely for classes created in Imba, but is used for creating any object, be it built in constructors in JavaScript like `Array`, `Object`, `RegEx` and any other class/constructor from other languages.
 {% endhint %}
 
@@ -220,15 +222,15 @@ Props used inside the constructor will be defined if they are not previously def
 
 ```ruby
 class Person
-    def constructor n, a, j
-        name = n
-        age = a
-        job = j
+    def constructor x, y, z
+        name = x
+        age = y
+        job = z
 let Eric = Person.new "Eric", "30", "Programmer"
 let Joe = Person.new "Joe", "27", "Designer"
 ```
 
-I used the letters \(n, a, j\) as the constructor props to make it easier to understand what is going on for a new learner, but you you can use the same name for both your instance props and constructor props if you'd like.
+I used the letters `x, y, z` as the constructor arguments to make it easier to understand what is going on, but you you can use the same name for both your instance props and constructor arguments if you'd like.
 
 ```ruby
 class Person
@@ -247,11 +249,7 @@ console.log Joe.name
 
 [🔗 Play with this code on Scrimba](https://scrimba.com/c/cn4bdeud)
 
-{% hint style="danger" %}
-Possibly Explain what the constructor method does behind the scenes.
-{% endhint %}
-
-### Methods are Functions
+#### Methods are Functions
 
 Don't forget that Methods, are functions of a Class. So anything you can do in a function, you can do in a method.
 
@@ -380,7 +378,7 @@ Eric.writes!
 
 ## Prototype Inheritance
 
-![The Prototype Chain](../.gitbook/assets/prototype-chain%20%281%29.png)
+![Prototype Chain](../.gitbook/assets/prototype-chain%20%285%29.png)
 
 The _Eric_ object is an instance of the _Person_ Object, and the _Person_ object is an instance of the _Object_ of object. So the Eric object inherits the methods of the _Person_ object which inherites from the _Object_ object.
 

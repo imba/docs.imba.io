@@ -10,6 +10,7 @@
 ## DOM
 
 * [HTML Elements](dom/elements-html.md)
+* [Classes & IDs](dom/classes-and-ids.md)
 * [Tags \(Custom Components\)](dom/tags-components.md)
 * [Tag props \(Properties\)](dom/props.md)
 * [Tag Classes & IDs](dom/tag-classes-and-ids.md)

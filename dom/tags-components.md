@@ -85,7 +85,7 @@ tag my-app
             <h1> "Hello" + name.toUpperCase() + "!"
 ```
 
-### Tag Property Data
+## Tag Property Data
 
 In the example below we render the app-pages component once for each object in the `pages` array variable. We then dynamically pass the corresponding object data to the component with `p=page.` We then dynamically access the title from the app-pages component by using the `@p.title` prop.
 
