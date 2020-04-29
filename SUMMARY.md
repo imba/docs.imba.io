@@ -95,3 +95,7 @@
 * [The CLI](meta/the-cli.md)
 * [The Team](meta/the-team.md)
 
+## Features
+
+* [Imba Styled Components](features/imba-styled-components.md)
+
