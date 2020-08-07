@@ -1,3 +1,6 @@
+⛔ [DEPRECATED] Please use https://github.com/imba/imba.io
+
+
 ---
 description: The official Imba documentation.
 ---
